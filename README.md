@@ -36,7 +36,7 @@
 
 ## 🎮 Sobre o projeto
 
-Way of Piece é um jogo criado na disciplina de Introdução a Engenharia da Computação no primeiro período do curso de Engenharia da Computação. O projeto foi desenvolvido utilizando a plataforma **[Scratch](https://blog.rocketseat.com.br/primeira-next-level-week/)** do **MIT**. O objetivo era tornar, por meio da programação em blocos, um primeiro contato agravável aos alunos com a programação. 
+Way of Peace é um jogo criado na disciplina de Introdução a Engenharia da Computação no primeiro período do curso de Engenharia da Computação. O projeto foi desenvolvido utilizando a plataforma **[Scratch](https://blog.rocketseat.com.br/primeira-next-level-week/)** do **MIT**. O objetivo era tornar, por meio da programação em blocos, um primeiro contato agravável aos alunos com a programação. 
 
 ---
 
